@@ -1,6 +1,6 @@
 # Prova-Henrique
 
-- *João Pedro Rangel*
-- *João Vitor Gomes*
-- *Kevin Kauan Dranginis*
-- *Marcus Augusto Lapsky* 
+- *João Pedro Rangel | Nº7*
+- *João Vitor Gomes | Nº8*
+- *Kevin Kauan Dranginis | Nº10*
+- *Marcus Augusto Lapsky | Nº14* 
